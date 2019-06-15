@@ -1,2 +1,2 @@
-print("git push test")
+print("こんふりくとてすとぉ～")
 print("git pull test")
