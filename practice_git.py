@@ -1,2 +1,3 @@
-print("git push test1")
+print("git push test")
 print("git pull test")
+print("mergeむずかしい")
