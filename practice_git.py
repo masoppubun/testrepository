@@ -1,3 +1,4 @@
 print("git test confrict")
-print("git pull test")
+print("git git git!")
 print("make new branch by maso")
+print("ややこしいな")
