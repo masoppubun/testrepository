@@ -1,1 +1,1 @@
-print("sugichoco test")
+print("git push test")
